@@ -1,0 +1,64 @@
+import React, { useState } from 'react'
+import productsData from './productsData.json';
+import { FaSearch } from 'react-icons/fa';
+import ProductCategories from './ProductCategories';
+import toast from 'react-hot-toast';
+import {UserAuth} from './AuthContext';
+import { useNavigate } from 'react-router-dom';
+import './style.css';
+import { useDispatch } from 'react-redux';
+function Beauty() {
+    const [input,setInput] = useState('');
+    const dispatch = useDispatch();
+    const navigate = useNavigate();
+    const {currentUser} = UserAuth();
+    const handleSearch = (e) =>{
+        setInput(e.target.value);
+    }
+    const beauty = productsData.filter(product =>
+        product.category.includes('Beauty')
+        );
+    const addToCartHandler = (options) =>{
+        if (currentUser){
+            dispatch({type:'addToCart',payload:options});
+            dispatch({type:'calculatePrice'});
+            toast.success('Added to Cart');
+        }else{
+            navigate('/signin')
+        }
+    }
+  return (
+    <>
+    <ProductCategories/>
+    <div className='products'>
+        <br/>
+        <h1 className='heading'>Beauty</h1>
+        <div className='search'>
+          <input placeholder='Search products...' value={input} onChange={handleSearch} className='search-input'/>
+          <span className='search-icon'><FaSearch size={20}/></span>
+        </div>
+
+        <div className='product-grid'>
+            {
+                beauty.map(product => (
+                    <div key={product.id} className='product'>
+                        <img src={product.image} alt={product.name}/>
+                        <div className='product-info'>
+                            <div>{product.name}</div>
+                            <div>${product.price}</div>
+                            <button onClick = {()=>addToCartHandler({
+                                id : product.id,
+                                name : product.name,
+                                image : product.image,
+                                price : product.price})}>Add to Cart</button>
+                        </div>
+                    </div>
+                ))
+            }
+        </div>
+    </div>
+    </>
+  )
+}
+
+export default Beauty

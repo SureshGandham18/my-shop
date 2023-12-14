@@ -1,0 +1,704 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "category": "Electronics",
+      "price": 599,
+      "image": "https://www.apple.com/newsroom/images/product/iphone/standard/iphonex_front_back_glass_big.jpg.large.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Summer Dress",
+      "category": "Clothing",
+      "price": 49,
+      "image": "https://5.imimg.com/data5/FG/AH/XW/SELLER-45876397/cotton-modal-summer-dress.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Best-Selling Novel",
+      "category": "Books",
+      "price": 29,
+      "image": "https://assets.vogue.in/photos/5dea3af96ffadb00085fb165/2:3/w_2560%2Cc_limit/Amazon's-List-of-Best-Books.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cozy Throw Pillow",
+      "category": "Home Decor",
+      "price": 19,
+      "image": "https://m.media-amazon.com/images/I/81rOxcGnDXL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Luxury Skincare Set",
+      "category": "Beauty",
+      "price": 79,
+      "image": "https://m.media-amazon.com/images/I/71BrpeWVyuL.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ultra HD TV",
+      "category": "Electronics",
+      "price": 899,
+      "image": "https://i.gadgets360cdn.com/products/televisions/large/1548153622_832_vu_55-inch-led-ultra-hd-4k-tv-55uh7545.jpg?downsize=*:360"
+    },
+    {
+      "id": 7,
+      "name": "Running Shoes",
+      "category": "Clothing",
+      "price": 59,
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14782490/2022/5/18/4f77d0aa-74c4-4287-8f21-9a1fc17a97ad1652853057067-ADIDAS-Men-Charcoal-Grey-Woven-Design-Adiglide-Running-Shoes-1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cookbook Collection",
+      "category": "Books",
+      "price": 39,
+      "image": "https://m.media-amazon.com/images/I/81BeBvy2VmL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Artistic Wall Clock",
+      "category": "Home Decor",
+      "price": 24,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230513/4TIA/645fcc12d55b7d0c63af09d1/-473Wx593H-463230495-gold-MODEL.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Natural Makeup Set",
+      "category": "Beauty",
+      "price": 69,
+      "image": "https://m.media-amazon.com/images/I/7148YUF8e7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Gaming Console",
+      "category": "Electronics",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/617br1NN2GL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Winter Jacket",
+      "category": "Clothing",
+      "price": 79,
+      "image": "https://m.media-amazon.com/images/I/81f-LnsXj4L._AC_UY1100_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Classic Novel Set",
+      "category": "Books",
+      "price": 49,
+      "image": "https://thesenovelthoughts.files.wordpress.com/2021/01/bfdfea49-a584-408f-8e94-d94de2f1c010.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Scented Candle",
+      "category": "Home Decor",
+      "price": 14,
+      "image": "https://img0.junaroad.com/uiproducts/19856639/zoom_0-1684346130.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Luxury Perfume",
+      "category": "Beauty",
+      "price": 89,
+      "image": "https://www.frenchessence.com/wp-content/uploads/2023/06/9.webp"
+    },
+    {
+      "id": 16,
+      "name": "4K Projector",
+      "category": "Electronics",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/71GP4NqWWnL.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Designer Sunglasses",
+      "category": "Clothing",
+      "price": 99,
+      "image": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F782%2Fplain-square-shape-designer-sunglasses-for-men-and-women-622.jpg&w=750&q=75"
+    },
+    {
+      "id": 18,
+      "name": "Travel Guide Collection",
+      "category": "Books",
+      "price": 59,
+      "image": "https://m.media-amazon.com/images/I/51yzRlzgNxL.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Rustic Wall Art",
+      "category": "Home Decor",
+      "price": 34,
+      "image": "https://www.vinoxo.in/5567-thickbox_default/vinoxo-vintage-metal-rustic-carriage-car-wall-art-decor-set-of-4.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Anti-Aging Skincare Kit",
+      "category": "Beauty",
+      "price": 119,
+      "image": "https://m.media-amazon.com/images/I/81si5pF6B1L.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Gaming Laptop",
+      "category": "Electronics",
+      "price": 1499,
+      "image": "https://img.freepik.com/free-photo/3d-workstation-with-computer-peripheral-devices_23-2150714201.jpg?size=338&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 22,
+      "name": "Casual Jeans",
+      "category": "Clothing",
+      "price": 69,
+      "image": "https://img.freepik.com/free-photo/full-length-cheerful-woman-denim-clothes-posing-white-wall_171337-2629.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 23,
+      "name": "Mystery Thriller Novel",
+      "category": "Books",
+      "price": 24,
+      "image": "https://img.freepik.com/free-photo/top-view-beautiful-rpg-still-life-items_23-2149282440.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 24,
+      "name": "Modern Wall Art",
+      "category": "Home Decor",
+      "price": 39,
+      "image": "https://img.freepik.com/premium-photo/chinese-ink-wash-landscape-abstract-art-background-fashion-modern-art-wall_698295-1052.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 25,
+      "name": "Luxury Fragrance Set",
+      "category": "Beauty",
+      "price": 99,
+      "image": "https://img.freepik.com/free-photo/dark-glass-bottle-with-single-liquid-drop-generative-ai_188544-9634.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 26,
+      "name": "Smart Home Speaker",
+      "category": "Electronics",
+      "price": 199,
+      "image": "https://img.freepik.com/free-photo/smart-speaker-house-control-innovative-technology_53876-97093.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 27,
+      "name": "Formal Suit",
+      "category": "Clothing",
+      "price": 149,
+      "image": "https://img.freepik.com/free-vector/mans-suit-realistic-composition-with-smart-costume-with-white-shirt-tie-jacket_1284-54345.jpg?size=338&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 28,
+      "name": "Sci-Fi Fantasy Book Collection",
+      "category": "Books",
+      "price": 49,
+      "image": "https://img.freepik.com/free-vector/into-unknown-wattpad-book-cover_23-2149452348.jpg?size=338&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 29,
+      "name": "Boho Chic Rug",
+      "category": "Home Decor",
+      "price": 59,
+      "image": "https://img.freepik.com/free-photo/traditional-macrame-assortment-indoors_23-2149072820.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 30,
+      "name": "Skincare Essentials Kit",
+      "category": "Beauty",
+      "price": 79,
+      "image": "https://img.freepik.com/free-photo/toilet-bag-products-arrangement-top-view_23-2149879511.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 31,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 129,
+      "image": "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?size=338&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 32,
+      "name": "Vintage Dress",
+      "category": "Clothing",
+      "price": 89,
+      "image": "https://img.freepik.com/free-photo/graceful-girl-trendy-dress-standing-interested-woman-with-flowers-wavy-hair-posing_197531-20563.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 33,
+      "name": "Historical Fiction Novel",
+      "category": "Books",
+      "price": 29,
+      "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793795.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 34,
+      "name": "Minimalist Table Lamp",
+      "category": "Home Decor",
+      "price": 34,
+      "image": "https://img.freepik.com/free-photo/simple-wood-desk-with-lamp-notebook_23-2148267482.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 35,
+      "name": "Makeup Brush Set",
+      "category": "Beauty",
+      "price": 29,
+      "image": "https://img.freepik.com/free-photo/top-view-arrangement-with-make-up-brushes_23-2148301852.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 36,
+      "name": "Smart Thermostat",
+      "category": "Electronics",
+      "price": 89,
+      "image": "https://img.freepik.com/free-photo/composition-tablet-with-home-automation-app_23-2149036816.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 37,
+      "name": "Cozy Sweater",
+      "category": "Clothing",
+      "price": 49,
+      "image": "https://img.freepik.com/free-photo/charming-cute-lady-with-curls-wearing-knitted-pullover-is-laughing-looking-down-with-closed-eyes-indoor-portrait-romantic-pretty-lady_291650-2356.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 38,
+      "name": "Cooking Cookbook",
+      "category": "Books",
+      "price": 19,
+      "image": "https://img.freepik.com/free-psd/vertical-poster-healthy-food-recipes-blog_23-2148782710.jpg?size=338&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 39,
+      "name": "Scandinavian Wall Shelf",
+      "category": "Home Decor",
+      "price": 29,
+      "image": "https://img.freepik.com/free-photo/decorative-desk-with-books-plant_23-2147730961.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 40,
+      "name": "Luxury Haircare Set",
+      "category": "Beauty",
+      "price": 69,
+      "image": "https://img.freepik.com/free-photo/cosmetic-male-beauty-products-with-display_23-2150435202.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 41,
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "price": 799,
+      "image": "https://img.freepik.com/free-vector/camera-accessory_1284-13130.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 42,
+      "name": "Designer Handbag",
+      "category": "Clothing",
+      "price": 199,
+      "image": "https://img.freepik.com/free-photo/hand-bag-layout-with-place-text-women-s-accessories-jewellery-background-mockup-banner-fashion-accessories_460848-13210.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 43,
+      "name": "Self-Help Book Collection",
+      "category": "Books",
+      "price": 39,
+      "image": "https://img.freepik.com/free-psd/international-coffee-day-instagram-stories_23-2150749800.jpg?size=338&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 44,
+      "name": "Mid-Century Modern Chair",
+      "category": "Home Decor",
+      "price": 79,
+      "image": "https://img.freepik.com/free-photo/vertical-shot-wooden-chair-white_181624-33157.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 45,
+      "name": "Anti-Acne Skincare Set",
+      "category": "Beauty",
+      "price": 49,
+      "image": "https://img.freepik.com/free-vector/realistic-cosmetics-set-with-soap-cream-shower-gel-vector-illustration_1284-20160.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 46,
+      "name": "Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 59,
+      "image": "https://img.freepik.com/free-photo/high-angle-smart-speaker-home_23-2150171754.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 47,
+      "name": "Leather Jacket",
+      "category": "Clothing",
+      "price": 119,
+      "image": "https://img.freepik.com/free-photo/portrait-handsome-confident-model-sexy-stylish-man-dressed-biker-leather-jacket-black-jeans-fashion-hipster-male-isolated-grey-background-studio-sunglasses-isolated_158538-23454.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 48,
+      "name": "Classic Poetry Book",
+      "category": "Books",
+      "price": 19,
+      "image": "https://img.freepik.com/free-psd/world-poetry-day-event-print-template_23-2148891329.jpg?size=338&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 49,
+      "name": "Geometric Throw Blanket",
+      "category": "Home Decor",
+      "price": 29,
+      "image": "https://img.freepik.com/free-photo/close-up-mottled-soft-sofa-texture-with-sunken-buttons-idea-variant-fabric-upholstery-sofa_169016-10502.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 50,
+      "name": "Luxury Skincare Gift Set",
+      "category": "Beauty",
+      "price": 149,
+      "image": "https://img.freepik.com/free-photo/valentines-day-still-life-design_23-2149246431.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 51,
+      "name": "Smart Doorbell",
+      "category": "Electronics",
+      "price": 199,
+      "image": "https://img.freepik.com/free-photo/young-woman-using-home-technology_23-2149216696.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 52,
+      "name": "Denim Jacket",
+      "category": "Clothing",
+      "price": 89,
+      "image": "https://img.freepik.com/free-photo/man-portrait_1296-629.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 53,
+      "name": "Psychological Thriller Novel",
+      "category": "Books",
+      "price": 29,
+      "image": "https://img.freepik.com/free-photo/translucent-blurred-portrait-woman_23-2149705672.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 54,
+      "name": "Bohemian Wall Tapestry",
+      "category": "Home Decor",
+      "price": 49,
+      "image": "https://img.freepik.com/premium-photo/traditional-oriental-bar-interior-design-with-wooden-furniture-palm-plant-colorful-ornamental-plates-wall_408798-9176.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 55,
+      "name": "Natural Skincare Set",
+      "category": "Beauty",
+      "price": 79,
+      "image": "https://img.freepik.com/free-photo/spa-cosmetics-product-leaf-with-essential-oil-pinecone-flowers-white-background_23-2147883793.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 56,
+      "name": "Wireless Gaming Mouse",
+      "category": "Electronics",
+      "price": 49,
+      "image": "https://img.freepik.com/free-photo/view-neon-illuminated-gaming-desk-setup-with-keyboard_23-2149529362.jpg?size=626&ext=jpg&ga=GA1.1.631681859.1698485914&semt=ais"
+    },
+    {
+      "id": 57,
+      "name": "Vintage T-Shirt",
+      "category": "Clothing",
+      "price": 29,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41hD94XS6%2BL.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Science Fiction Book Set",
+      "category": "Books",
+      "price": 49,
+      "image": "https://juniperbooks.com/cdn/shop/files/RHSCI6-1200-Front_1.jpg?v=1690941577&width=1024"
+    },
+    {
+      "id": 59,
+      "name": "Modern Wall Mirror",
+      "category": "Home Decor",
+      "price": 39,
+      "image": "https://m.media-amazon.com/images/I/71OmMAkTwBL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Essential Makeup Palette",
+      "category": "Beauty",
+      "price": 39,
+      "image": "https://m.media-amazon.com/images/I/61Hj3rpPQAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 61,
+      "name": "4K Gaming Monitor",
+      "category": "Electronics",
+      "price": 599,
+      "image": "https://i.rtings.com/assets/pages/UzlAzYNI/best-4k-gaming-monitors-20230808-2-medium.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Formal Blouse",
+      "category": "Clothing",
+      "price": 39,
+      "image": "https://i.etsystatic.com/29625394/r/il/49b0df/3727397343/il_570xN.3727397343_85v7.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Historical Romance Novel",
+      "category": "Books",
+      "price": 24,
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580324041-51CKShUB8-L.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "id": 64,
+      "name": "Rustic Coffee Table",
+      "category": "Home Decor",
+      "price": 79,
+      "image": "https://i0.wp.com/shelleybateshome.com/wp-content/uploads/2022/07/Rustic-Coffee-Table-1.jpg?ssl=1"
+    },
+    {
+      "id": 65,
+      "name": "Cruelty-Free Skincare Set",
+      "category": "Beauty",
+      "price": 49,
+      "image": "https://static.independent.co.uk/2021/06/14/09/vegan%20and%20cruelty%20free%20skincare.jpg?quality=75&width=1200&auto=webp"
+    },
+    {
+      "id": 66,
+      "name": "Smart WiFi Router",
+      "category": "Electronics",
+      "price": 89,
+      "image": "https://m.media-amazon.com/images/I/51MsvuD7iOL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Cozy Blanket Scarf",
+      "category": "Clothing",
+      "price": 29,
+      "image": "https://www.usmagazine.com/wp-content/uploads/2022/09/shutterstock_2048787701.jpg?quality=78&strip=all"
+    },
+    {
+      "id": 68,
+      "name": "Classic Mystery Novel",
+      "category": "Books",
+      "price": 29,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mystery_January_1934.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Modern Floor Lamp",
+      "category": "Home Decor",
+      "price": 49,
+      "image": "https://images.woodenstreet.de/image/data/sanded-edges/castle-3-tier-shelf-storage-floor-lamp-gold-color-metal-legs/black/1.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Natural Haircare Set",
+      "category": "Beauty",
+      "price": 59,
+      "image": "https://img.tatacliq.com/images/i8/658Wx734H/MP000000010057501_658Wx734H_202207180522431.jpeg"
+    },
+    {
+      "id": 71,
+      "name": "Bluetooth Earbuds",
+      "category": "Electronics",
+      "price": 79,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/DM/OK/OC/112641326/t20-earbuds-wireless-bluetooth-headphones-t20-tws.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Casual Sneakers",
+      "category": "Clothing",
+      "price": 49,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/7/PG/UB/GY/8852934/-mg-0259.JPG"
+    },
+    {
+      "id": 73,
+      "name": "Fantasy Book Collection",
+      "category": "Books",
+      "price": 39,
+      "image": "https://m.media-amazon.com/images/I/51kUk9jhs5L.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Scandinavian Dining Chair",
+      "category": "Home Decor",
+      "price": 69,
+      "image": "https://content.cylindo.com/api/v2/5081/products/CHR-SDN/frames/31/CHR-SDN.JPG?background=FFFFFF&feature=UPHOLSTERY:OFW&feature=WOOD%20FINISH:001"
+    },
+    {
+      "id": 75,
+      "name": "Luxury Nail Polish Set",
+      "category": "Beauty",
+      "price": 29,
+      "image": "https://wwd.com/wp-content/uploads/2021/11/orly-nail-polish.jpg?w=380"
+    },
+    {
+      "id": 76,
+      "name": "Home Theater System",
+      "category": "Electronics",
+      "price": 699,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/10/KR/OF/CE/140143577/sony-home-theatre-speakers.jpeg"
+    },
+    {
+      "id": 77,
+      "name": "Designer Sunglasses",
+      "category": "Clothing",
+      "price": 99,
+      "image": "https://5.imimg.com/data5/GK/KL/UO/ANDROID-36864709/product-jpeg-500x500.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Historical Fiction Book Set",
+      "category": "Books",
+      "price": 49,
+      "image": "https://m.media-amazon.com/images/I/71H48PPODqL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Modern Wall Clock",
+      "category": "Home Decor",
+      "price": 24,
+      "image": "https://m.media-amazon.com/images/I/715X5Sp7SKL.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Luxury Bathrobe",
+      "category": "Beauty",
+      "price": 79,
+      "image": "https://f1af951e8abcbc4c70b9-9997fa854afcb64e87870c0f4e867f1d.lmsin.net/1000005638670-1000005638669_01-750.jpg"
+    },
+    {
+      "id": 81,
+      "name": "High-End DSLR Camera",
+      "category": "Electronics",
+      "price": 1499,
+      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/08/MT2_6231.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Formal Dress",
+      "category": "Clothing",
+      "price": 129,
+      "image": "https://www.bridesofsydney.com.au/wp-content/uploads/2022/12/Jadore_JP133_FV2.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Crime Thriller Book",
+      "category": "Books",
+      "price": 24,
+      "image": "https://cdn.kobo.com/book-images/2ac691e8-1e38-4f81-98de-4f17055a06d4/1200/1200/False/little-boy-lost-a-dci-anna-tate-crime-thriller-book-3.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Mid-Century Modern Sofa",
+      "category": "Home Decor",
+      "price": 699,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/299148501/IE/IY/SU/187492232/mid-century-sofa-set.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Luxury Haircare Collection",
+      "category": "Beauty",
+      "price": 99,
+      "image": "https://www.sullivanbeauty.com/wp-content/uploads/2022/01/AZ_Family-Shot.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Smart Home Security Camera",
+      "category": "Electronics",
+      "price": 179,
+      "image": "https://wiproconsumerlighting.com/sites/default/files/Wipro_Smart-Camera_MC_02022023_Packshot_01.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Vintage Skirt",
+      "category": "Clothing",
+      "price": 69,
+      "image": "https://i.etsystatic.com/6286575/r/il/d327af/4010164293/il_fullxfull.4010164293_ecbb.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Classic Romance Novel",
+      "category": "Books",
+      "price": 19,
+      "image": "https://www.travellingbookjunkie.com/wp-content/uploads/2016/02/Romeo-and-Juilet.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Industrial Pendant Light",
+      "category": "Home Decor",
+      "price": 59,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71M1mZMRexL.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Organic Skincare Set",
+      "category": "Beauty",
+      "price": 69,
+      "image": "https://image.made-in-china.com/2f0j00OTckNYurbyoR/Wholesale-OEM-Organic-Skincare-Combo-Set-Anti-Acne-Brightening-Vegan-Turmeric-Facial-Kit-for-Women.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Virtual Reality Headset",
+      "category": "Electronics",
+      "price": 299,
+      "image": "https://deodap.in/cdn/shop/products/Untitled-9_a64abcc7-4d49-4989-969b-a3dd6714baa1_700x700.jpg?v=1686899620"
+    },
+    {
+      "id": 92,
+      "name": "Casual Hoodie",
+      "category": "Clothing",
+      "price": 49,
+      "image": "https://5.imimg.com/data5/RZ/PH/IX/SELLER-16351602/girls-casual-sweatshirt-500x500.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Science Fiction Book Set",
+      "category": "Books",
+      "price": 49,
+      "image": "https://www.bookgeeks.in/wp-content/uploads/2023/05/Delirium-Lauren-Oliver-Book.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Minimalist Desk Lamp",
+      "category": "Home Decor",
+      "price": 34,
+      "image": "https://fandomlights.com/cdn/shop/products/fandom-lights-desk-lamp-led-desk-table-tube-type-lamp-for-home-and-office-use-warm-white-36326742524117_800x.jpg?v=1654302279"
+    },
+    {
+      "id": 95,
+      "name": "Natural Makeup Set",
+      "category": "Beauty",
+      "price": 39,
+      "image": "https://www.palladiobeauty.com/cdn/shop/products/natural_bundle-palladio-listing_main_imagecopy_1200x.jpg?v=1629141722"
+    },
+    {
+      "id": 96,
+      "name": "Ultra HD Smart TV",
+      "category": "Electronics",
+      "price": 1299,
+      "image": "https://cdn1.smartprix.com/rx-iJ8ZEPmuC-w420-h420/samsung-ua50bu8000kl.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Designer Watch",
+      "category": "Clothing",
+      "price": 99,
+      "image": "https://5.imimg.com/data5/FJ/YK/WU/SELLER-57261861/designer-ladies-watch.jpg"
+    },
+    {
+      "id": 98,
+      "name": "Fantasy Book Collection",
+      "category": "Books",
+      "price": 39,
+      "image": "https://kaylmoody.com/wp-content/uploads/2019/10/Vampire-Academy-box-set-600x573.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Retro Wall Clock",
+      "category": "Home Decor",
+      "price": 29,
+      "image": "https://images.meesho.com/images/products/129583213/dynrf_512.webp"
+    },
+    {
+      "id": 100,
+      "name": "Luxury Skincare Gift",
+      "category":"Beauty",
+      "price":129,
+      "image": "https://i.etsystatic.com/22757039/r/il/b29ed1/3496571942/il_fullxfull.3496571942_rnlx.jpg"
+    }
+    
+    
+  ]

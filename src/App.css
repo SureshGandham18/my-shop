@@ -1,38 +1,113 @@
-.App {
+
+
+
+body{
+  background: linear-gradient(to right, #ef4ccb, #2729c1);
+  position: relative;
+}
+.header{
+  position: fixed;
+  top:0;
+  left:0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  align-items: center;
+  background-color: rgb(212, 192, 208);
+}
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 17px;
+}
+
+.home{
+  display: flex;
+  justify-content: space-between;
+}
+h3{
+  color: black;
+  margin-left: 65px;
+  text-decoration: none;
+}
+.logo{
+  width: 60px;
+  height: 50px;
+  border-radius:60%;
+}
+
+.signin{
+  margin-right:20px;
+  padding: 7px 10px;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+  font-weight: 600;
+}
+.signin:hover{
+  background-color: black;
+  color: aliceblue;
+}
+
+.signup{
+  padding: 7px 10px;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+  margin-right: 20px;
+  font-weight: 600;
+}
+
+.signup:hover{
+  background-color: black;
+  color: aliceblue;
+}
+
+
+.main-page{
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20220522/pngtree-ecommerce-banner-planning-segmentation-selection-image_1375247.jpg");
+  background-size: cover;
+  color:#fff;
+  margin-top: 70px;
+  padding: 100px;
+  height:375px;
+}
+.background-image{
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 40px;
+  margin-right: 50%;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.shopping-btn{
+  padding: 12px 25px;
+  background-color: rgb(212, 192, 208);
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  margin: 17px;
+}
+.shopping-btn:hover{
+  background-color: white;
+  color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.categories{
+  position: fixed;
+  margin-top: -7px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background-color: black;
   color: white;
+  justify-content: space-between;
+  padding: 17px;
+  left:0;
+  right: 0;
+  text-decoration: none;
+  cursor: pointer;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.categories div{
+  color: white;
 }
